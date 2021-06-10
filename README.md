@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+
+Hello world here
+
 # react-seminar
 Studying react
 =======
